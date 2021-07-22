@@ -1,0 +1,5 @@
+{
+  "name": "Supersonic NFT Dapp",
+  "description": "A simple Node.js app used to record and generate NFTs from audio samples",
+  "repository": "https://github.com/barrasso/supersonic-nft-dapp"
+}

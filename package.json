@@ -1,0 +1,30 @@
+{
+  "name": "supersonic-nft-dapp",
+  "version": "0.1.0",
+  "description": "A simple Node.js app used to record and generate NFTs from audio samples",
+  "main": "server.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.13.3",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.3.2",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barrasso/supersonic-nft-dapp"
+  },
+  "author": "barrasso",
+  "contributors": [
+    {
+      "name": "Mark Barrasso"
+    }
+  ],
+  "license": "MIT"
+}
